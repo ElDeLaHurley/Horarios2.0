@@ -1,0 +1,13 @@
+#BSG{
+    
+}
+#item{
+    padding: 10px;
+    padding-left: 0px;
+}
+#btn_editar{
+    background-color: transparent;
+    color: blue;
+    border: 0px;
+    padding: 3px;
+}
